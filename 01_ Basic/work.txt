@@ -1,0 +1,7 @@
+====> for installing typescript globally : npm i -g typescript
+====> for checking typescript version : tsc -v
+====> for initalizing typescript in project: tsc -init
+====> after that we create a index.ts file and code a programe (console.log('Hello world'))
+====> for run this program/file (index.ts) command: tsc index.ts ; (ye command typescript ko javascript me convert kr deti hai)
+====> for run the javascript file : node index.js
+====> tsc -w : is command se hum typescript ki file me jo b changing krengy wo khod he javascript me convert kry ga (compile)
